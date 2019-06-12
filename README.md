@@ -1,10 +1,10 @@
 # omnistack-week
 Repository created for week omnistack of rockeseat.
 
-# Tools project
+### Tools project
 - **yarn**
 
-# Tools backend
+### Tools backend
 
 - **express**
 - **mongoDb**
