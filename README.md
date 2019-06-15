@@ -8,3 +8,9 @@ Repository created for week omnistack of rockeseat.
 
 - **express**
 - **mongoDb**
+- **socket.io**
+
+### Tools frontend
+
+- **react**
+- **socket.io**
