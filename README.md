@@ -15,7 +15,7 @@ Obs: Create file moongoose.json in to backend path:
 
 ```
 {
-    "url": "your url moongose"
+    "url": "your url mongoDb"
 }
 ```
 
