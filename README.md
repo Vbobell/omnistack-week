@@ -10,6 +10,15 @@ Repository created for week omnistack of rockeseat.
 - **mongoDb**
 - **socket.io**
 
+Obs: Create file moongoose.json in to backend path:
+/src/config
+
+```
+{
+    "url": "your url moongose"
+}
+```
+
 ### Tools frontend
 
 - **react**
