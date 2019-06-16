@@ -1,5 +1,5 @@
 # omnistack-week
-Repository created for week omnistack of rockeseat.
+Repository created for week omnistack of Rocketseat.
 
 ### Tools project
 - **yarn**
