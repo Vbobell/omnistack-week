@@ -14,3 +14,9 @@ Repository created for week omnistack of rockeseat.
 
 - **react**
 - **socket.io**
+
+
+### Tools mobile
+
+- **react native**
+- **socket.io**
